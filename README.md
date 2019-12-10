@@ -1,6 +1,8 @@
-dmenu - dynamic menu
-====================
-dmenu is an efficient dynamic menu for X.
+# dmenu - dynamic menu
+
+forked by @atlemagnussen
+
+`dmenu` is an efficient dynamic menu for X.
 
 
 Requirements
